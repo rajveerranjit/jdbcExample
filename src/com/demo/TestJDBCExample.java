@@ -7,6 +7,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.Arrays;
 
+
 public class TestJDBCExample {
 
 	private final static String userName="SA";
